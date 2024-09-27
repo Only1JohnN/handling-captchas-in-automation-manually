@@ -91,6 +91,10 @@ handling-captchas-in-automation/
 │
 ├── tests/                        # Contains the test cases
 │   └── test_file.py              # Test script with manual captcha handling
+├── ref/                          # Contains the images for the README file
+│   └── Img_1.png                
+    └── Img_2.png                 
+    └── thumbnail.png              
 │
 ├── requirements.txt              # List of project dependencies
 └── README.md                     # This documentation
