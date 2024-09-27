@@ -4,6 +4,10 @@ This project demonstrates how to handle captchas manually during automated brows
 
 [Website Link](https://recaptcha-demo.appspot.com/recaptcha-v2-checkbox.php)
 
+![Website Screenshot1](ref/Img_1.png)
+![Website Screenshot2](ref/Img_2.png)
+[![Watch the demo video](ref/thumbnail.png)](https://youtu.be/10X5B2aSK9Y?si=Slc58HEc37Np2eSq)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -21,9 +25,6 @@ This project demonstrates how to handle captchas manually during automated brows
 
 Automating tests that involve captchas can be challenging since captchas are meant to distinguish humans from bots. While there are tools like 2captcha for automated captcha solving, this project focuses on a manual approach to handle captchas in an otherwise automated test suite.
 
-![Website Screenshot1](ref/Img_1.png)
-![Website Screenshot2](ref/Img_2.png)
-[![Watch the demo video](ref/thumbnail.png)](https://youtu.be/10X5B2aSK9Y?si=Slc58HEc37Np2eSq)
 
 ## Prerequisites
 
