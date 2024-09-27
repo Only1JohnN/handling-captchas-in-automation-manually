@@ -79,7 +79,7 @@ The script uses **pytest** with the `-s` flag, allowing interaction with the ter
 
 2. After the script runs, it will:
 
-    - Navigate to the [captcha demo page](https://recaptcha-demo.appspot.com/recaptcha-v2-checkbox.php).
+    - Navigate to the [reCAPTCHA demo page](https://recaptcha-demo.appspot.com/recaptcha-v2-checkbox.php).
     - Clear the input fields and fill them with new values.
     - Pause and wait for you to solve the captcha.
     - Automatically submit the form after captcha verification.
