@@ -2,7 +2,7 @@
 
 This project demonstrates how to handle captchas manually during automated browser testing using Selenium and pytest. While automation frameworks can handle various aspects of web testing, captchas are designed to block automation bots. This guide shows how to pause the script and allow manual input for captcha solving, then resume automated testing.
 
-[Website Link](https://recaptcha-demo.appspot.com/recaptcha-v2-checkbox.php)
+[reCAPTCHA demo page](https://recaptcha-demo.appspot.com/recaptcha-v2-checkbox.php)
 
 ![Website Screenshot1](ref/Img_1.png)
 ![Website Screenshot2](ref/Img_2.png)
