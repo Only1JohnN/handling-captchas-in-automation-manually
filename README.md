@@ -87,7 +87,7 @@ The script uses **pytest** with the `-s` flag, allowing interaction with the ter
 ## Project Structure
 
 ```
-handling-captchas-in-automation/
+handling-captchas-in-automation-manually/
 │
 ├── tests/                        # Contains the test cases
 │   └── test_file.py              # Test script with manual captcha handling
